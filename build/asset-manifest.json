@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SimplyTakeWebsite/static/css/main.5851a16d.css",
+    "main.js": "/SimplyTakeWebsite/static/js/main.29ad1fa9.js",
+    "index.html": "/SimplyTakeWebsite/index.html",
+    "main.5851a16d.css.map": "/SimplyTakeWebsite/static/css/main.5851a16d.css.map",
+    "main.29ad1fa9.js.map": "/SimplyTakeWebsite/static/js/main.29ad1fa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5851a16d.css",
+    "static/js/main.29ad1fa9.js"
+  ]
+}
